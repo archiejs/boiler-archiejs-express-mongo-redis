@@ -1,0 +1,16 @@
+{
+  "name": "dummy",
+  "version": "1.0.0",
+  "description": "empty module does nothing.",
+  "plugin": {
+    "consumes": [ "db.User" ],
+    "provides": {
+        "dummy": "dummy.js"
+    }
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "author": "Naval Saini <navalnovel@gmail.com> (http://www.flipflopapp.com/)",
+  "license": "ISC"
+}
