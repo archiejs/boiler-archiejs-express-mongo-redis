@@ -20,10 +20,10 @@ Install all dependencies npm modules (`npm install`), mongodb and redis.
 
 Run the testcases, `npm run test`
 
-NOTE: run the app before running testcases in a separate window
+NOTE: run the app before running testcases in a separate terminal.
 
 
-## See dummy frontend (for demo purpose)
+## See dummy frontend
 
 Open on browser, `http://localhost:3000/`
 
