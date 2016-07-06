@@ -1,4 +1,4 @@
-# AchieJS webapp boiler plate code
+# AchieJS webappboiler plate code
 
 
 # How to use
