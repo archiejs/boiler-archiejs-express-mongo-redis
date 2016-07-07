@@ -1,7 +1,6 @@
 'use strict';
 
-var Archie = require('archiejs');
-require('./config/common/enhancers.js'); // Load all enhancers
+var Archie = require('./config/common/archie.js'); // Archiejs setup 
 var hasApis = (!process.argv[2]) || (process.argv[2] === 'app');
 
 // Load the app's dependency tree
