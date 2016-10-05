@@ -9,9 +9,9 @@
   },
   "license": "ISC",
   "dependencies": {
-    "archiejs": "^0.2.2",
-    "archiejs-kue-enhancer": "^0.2.1",
-    "archiejs-mongo-enhancer": "^0.2.1",
+    "archiejs": "^0.3.1",
+    "archiejs-kue-enhancer": "^0.2.2",
+    "archiejs-mongo-enhancer": "^0.3.0",
     "assert": "^1.4.1",
     "async": "^1.5.2",
     "body-parser": "^1.15.2",
